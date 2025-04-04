@@ -1,1 +1,1 @@
-This is an assignment for COMP-595 Cloud Computing Provisioning.
+This is COMP595 Lab 9
